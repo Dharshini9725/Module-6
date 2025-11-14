@@ -25,7 +25,7 @@ To write a Python program to create a `Counter` class that can increment the val
 
 ### PROGRAM
 
-```
+```python
 Reg.No: 212223060050
 Name: Dharshini V S
 
